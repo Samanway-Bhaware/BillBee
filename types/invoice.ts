@@ -6,7 +6,7 @@ export interface InvoiceItem {
   amount: number
 }
 
-export interface InvoiceData {
+export interface InvoiceData { 
   invoiceNumber: string
   date: string
   fromName: string
