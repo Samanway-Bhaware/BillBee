@@ -13,7 +13,7 @@ const DemoPreview = () => (
 );
 
 const defaultValue = {
-  companyDetails: {
+  companyDetails: { 
     companyName: "Nimbus Labs Ltd.",
     companyAddress: "45 Innovation Drive, Suite 210",
     companyCity: "Austin",

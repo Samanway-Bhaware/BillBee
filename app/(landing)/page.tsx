@@ -12,7 +12,7 @@ import Spotlight from "@/components/spotlight";
 
   const alumni = Alumni_Sans_Pinstripe({
   subsets: ["latin"],
-  weight: "400",
+  weight: "400", 
   style: 'italic',
   variable: "--font-alumni",
 });
